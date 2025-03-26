@@ -1,5 +1,6 @@
-# takeoff_and_land
-mimicked [MAVSDK takeoff_and_land sample](https://mavsdk.mavlink.io/main/en/cpp/examples/takeoff_and_land.html)  without MAVSDK library modifying  [C-UART Interface Example](https://github.com/mavlink/c_uart_interface_example)
+# mavlink-project_fakeGPS
+
+send real GPS message to Pixhawk using Mavlink
 
 Building
 ========
